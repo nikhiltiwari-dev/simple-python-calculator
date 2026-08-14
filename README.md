@@ -22,7 +22,7 @@ A simple console-based Calculator developed using Python. This project performs 
 
 1. Clone this repository:
    
-   git clone https://github.com/yourusername/calculator.git
+   git clone https://github.com/nikhiltiwari-dev/calculator.git
 
 2. Open the project folder.
 
