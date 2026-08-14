@@ -1,39 +1,50 @@
-# simple-python-calculator
-A beginner-friendly CLI arithmetic calculator in Python handling basic mathematical operations and division-by-zero validatin
-a =float(input("ENTER THE FIRST NUMBER :"))
-b= float(input("ENTER THE SOCOND NUMBER :"))
+🧮 Calculator
 
-# AARITHMETIC OPERATORS
+A simple console-based Calculator developed using Python. This project performs basic arithmetic operations through a simple and user-friendly interface.
 
-print("1. addition")
-print("2. subtraction")
-print("3. multiplication")
-print("4. division")
-print("5. modulus")
+🚀 Features
 
-choice= input("enter your choice from 1/2/3/4/5 :")
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- User-friendly menu
+- Takes input from the user
+- Performs real-time calculations
+- Simple and beginner-friendly Python project
 
-if choice== "1":
-    print("result is =",a+b)
-elif choice== "2":
-    print("result is =", a-b)
+🛠️ Technologies Used
 
-elif choice== "5":
-    print("result is =", a%b)
+- Language: Python
+- Concepts: Variables, Data Types, Operators, Conditional Statements, Loops, Functions, User Input and Output
 
+▶️ How to Run
 
-elif choice== "3":
-    print("result is =", a*b)
-elif choice =="4":
-   if b!=0:
-     print("result is=", a/b)
-   else:
-     print("CHUTIYA HAI KYA BE ZERO SE DIVIDE KR RHA HAI")
-  
+1. Clone this repository:
+   
+   git clone https://github.com/yourusername/calculator.git
 
-    
-name= input ("ENTER YOUR NAME :")
-print("THANKS FOR CHOOSING US :",name)
+2. Open the project folder.
 
+3. Run the program:
+   
+   python calculator.py
 
-    
+📚 What I Learned
+
+This project helped me practice the fundamentals of Python, including:
+
+- Variables and data types
+- Arithmetic operators
+- Conditional statements
+- Loops
+- Functions
+- Taking input from users
+
+👨‍💻 Author
+
+Nikhil Tiwari
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
